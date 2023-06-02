@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.prayatna.dev/" target="_blank" rel="noreferrer">Prayatna</a> 👋
+Hi there, I'm **Prayatna** 👋
 </h3>
 
 <h2 align="center">
@@ -12,5 +12,6 @@ I love the challenge of finding caches and spending time to meet new people. Lea
 ### 🤝 Connect with me:
 
 <a href="https://instagram.com/prayatnaaa"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="prayatnaaa | Instagram" width="21px"/></a>
+prayatnaaa
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
