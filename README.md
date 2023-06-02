@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm **Prayatna** 👋
+Hello there, I'm Tude Prayatna 👋
 </h3>
 
 <h2 align="center">
