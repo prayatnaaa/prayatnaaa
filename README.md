@@ -1,14 +1,19 @@
+# Hello, Pals
 
-<h3 align="center">
-Hello there, I'm Tude Prayatna 👋
-</h3>
+I'm Tude Prayatna, I'm currently a data science student. My codes are still confusing for human.
 
-<h2 align="center">
-I'm currently an IT student 💻!
-</h2> 
+## Connect with Me
 
-### Connect with me:
+<a href="https://www.instagram.com/prayatnaaa/" target="_blank">
+  <img src="https://img.shields.io/badge/Follow-%40prayatnaaa-%23E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
+</a>
 
-<a href="https://instagram.com/prayatnaaa"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="prayatnaaa | Instagram" width="30px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## Project
+
+
+1. **Judul Artikel 1** - Deskripsi singkat tentang artikel ini.
+   - Tautan: [Link ke artikel](tautan)
+
+2. **Judul Artikel 2** - Deskripsi singkat tentang artikel ini.
+   - Tautan: [Link ke artikel](tautan)
