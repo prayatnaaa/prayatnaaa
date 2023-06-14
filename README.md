@@ -5,7 +5,7 @@ I'm Tude Prayatna, I'm currently a data science student. My codes are still conf
 ## Connect with Me
 
 <a href="https://www.instagram.com/prayatnaaa/" target="_blank">
-  <img src="https://img.shields.io/badge/Follow-%40prayatnaaa-%23E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
+  <img src="https://i.imgur.com/zU0vgBQ.png" alt="Instagram" height="30" width="30">
 </a>
 
 
