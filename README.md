@@ -1,9 +1,9 @@
-# Hello, Pals
+<h1 align="center">Hello Pals, I'm Tude Prayatna</h1>
+<h3 align="center">Currently a Data Science Student</h3>
 
-I'm Tude Prayatna, I'm currently a data science student. My codes are still confusing for human.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/prayatnaaa/" target="blank"><img align="center" src="https://whoisjuan.me/ig-logo/apple-touch-icon.png" alt="prayatnaaa" height="30" width="40" /></a>
+</p>
 
-## Connect with Me
-
-<a href="https://www.instagram.com/prayatnaaa/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/240px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="30">
-</a>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
