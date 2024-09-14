@@ -10,9 +10,10 @@ An Undergraduate IT student who loves to create and share projects about web and
   <a href="https://flutter.dev/">
   <img align="left" alt="Flutter" title="Flutter (Cross-platform SDK)" width="21px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
 </a>
-<a href="[https://en.wikipedia.org/wiki/C_(programming_language)](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)">
+<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="left" alt="C" title="C (Programming Language)" width="21px" src="" />
 </a>
+
 
   
   <br>
