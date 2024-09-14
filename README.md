@@ -24,5 +24,5 @@ An Undergraduate IT student who loves to create and share projects about web and
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/prayatnaaa/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/tude-prayatna-6837562a2/">LinkedIn</a>
 - tudeprayatna04@gmail.com
