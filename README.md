@@ -1,12 +1,6 @@
 ### Hello! I'm Tude Prayatna.
 
 An Undergraduate IT student who loves to create and share projects about web and mobile technology!
-
-<a href="#">
-  <img align="left" alt="C" title="C (Programming Language)" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-</a>
-
-
   
   <br>
   <br>
@@ -16,5 +10,5 @@ An Undergraduate IT student who loves to create and share projects about web and
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/tude-prayatna-6837562a2/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/tude-prayatna-6837562a2/" target="_blank">LinkedIn</a>
 - tudeprayatna04@gmail.com
