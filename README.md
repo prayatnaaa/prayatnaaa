@@ -6,4 +6,5 @@ An Undergraduate IT student who loves to create and share projects about web and
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/tude-prayatna-6837562a2/" target="_blank">LinkedIn</a>
-- tudeprayatna04@gmail.com
+- <a href="mailto:tudeprayatna04@gmail.com">tudeprayatna04@gmail.com</a>
+
